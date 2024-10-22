@@ -1,4 +1,4 @@
-# Hi, I'm [Daniel Pazuello] 👋
+# Hi, I'm Daniel Pazuello 👋
 
 I'm a **Data Scientist** passionate about leveraging data to solve complex problems and drive business insights. With experience in **Data Analysis**, **Machine Learning**, and **Visualization**, I help organizations make informed decisions through data-driven insights.
 
